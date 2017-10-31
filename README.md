@@ -6,6 +6,8 @@ An app to generate ｆｕｌｌｗｉｄｔｈ ｔｅｘｔ.
 Built with [react-native][reactnative]. Never actually tested it on an iOS
 device so *caveat emptor*.
 
+Pre-built Android APK: [Download Android APK][androidapk]
+
 # Usage and screenshots
 
 ## Step 1: Type some text
@@ -26,3 +28,4 @@ You can contact me at <gatlin@niltag.net> or you can use the GitHub issue
 tracker, I'm easy.
 
 [reactnative]: https://facebook.github.io/react-native/
+[androidapk]: https://github.com/gatlin/fullwidth/releases/download/v0.1.0/fullwidth.apk
