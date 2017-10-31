@@ -6,6 +6,11 @@ An app to generate ｆｕｌｌｗｉｄｔｈ ｔｅｘｔ.
 Built with [react-native][reactnative]. Never actually tested it on an iOS
 device so *caveat emptor*.
 
+# Screenshots
+
+![Screenshot of the app](https://i.imgur.com/XfyusjG.png)
+
+
 # Bugs, questions, comments, pull requests, vast sums of free cash
 
 You can contact me at <gatlin@niltag.net> or you can use the GitHub issue
