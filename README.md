@@ -6,7 +6,11 @@ An app to generate ｆｕｌｌｗｉｄｔｈ ｔｅｘｔ.
 Built with [react-native][reactnative]. Never actually tested it on an iOS
 device so *caveat emptor*.
 
-Pre-built Android APK: [Download Android APK][androidapk]
+# Download
+
+[Download a pre-built Android APK here.][androidapk]
+
+I don't own an iOS device or I'd have an iOS version here as well.
 
 # Usage and screenshots
 
