@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "sdkVersion": "20.0.0",
+    "name": "Fullwidth",
+    "slug": "fullwidth",
+    "privacy": "public"
+  },
+  "name": "fullwidth",
+  "displayName": "Fullwidth"
+}
