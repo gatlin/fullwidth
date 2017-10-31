@@ -8,7 +8,9 @@ device so *caveat emptor*.
 
 # Screenshots
 
-![Screenshot of the app](https://i.imgur.com/XfyusjG.png)
+![First screenshot of the app](https://i.imgur.com/FonSybz.png)
+
+![Second screenshot of the app](https://i.imgur.com/Wkf4tsY.png)
 
 
 # Bugs, questions, comments, pull requests, vast sums of free cash
