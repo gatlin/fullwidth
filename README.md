@@ -6,12 +6,19 @@ An app to generate ｆｕｌｌｗｉｄｔｈ ｔｅｘｔ.
 Built with [react-native][reactnative]. Never actually tested it on an iOS
 device so *caveat emptor*.
 
-# Screenshots
+# Usage and screenshots
+
+## Step 1: Type some text
+
+Type text you want to aestheticize and gaze in awe as it is converted *in real time*.
 
 ![First screenshot of the app](https://i.imgur.com/FonSybz.png)
 
-![Second screenshot of the app](https://i.imgur.com/Wkf4tsY.png)
+## Step 2: Long press the big yellow area
 
+The text will be copied to your clipboard. Whoa!
+
+![Second screenshot of the app](https://i.imgur.com/Wkf4tsY.png)
 
 # Bugs, questions, comments, pull requests, vast sums of free cash
 
